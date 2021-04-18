@@ -1,0 +1,11 @@
+game.CustomGameName WW2mod
+game.addModPath Mods/BFV_WW2Mod/
+game.addModPath Mods/BFVietnam/
+game.CustomGameVersion 1.0
+game.CustomGameUrl "http://www.BattlefieldVietnam.ea.com"
+Game.setMenuMusicFilename "music/menumusic"
+rem Game.setLoadMusicFilename "music/vehicle4.bik"
+Game.setWinMusicFilename "music/vehicle3.bik"
+Game.setLoseMusicFilename "music/menu.bik"
+Game.setCampaignLoseMusicFilename "music/theme2.bik"
+Game.setDebriefingMusicFilename "music/briefing.bik"
